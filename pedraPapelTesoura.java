@@ -13,7 +13,7 @@ public class pedraPapelTesoura {
         int placarComputador = 0;
         boolean fim = false;
 
-        System.out.println("Jogo da Velha");
+        System.out.println("Pedra, Papel e Tesoura");
         System.out.println();
 
         do{
